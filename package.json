@@ -42,7 +42,7 @@
   "main": "postcss.config.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Agil123123/tehkotak.git"
+    "url": "https://github.com/Agil123123/tehkotak"
   },
   "author": "santz112",
   "license": "ISC",
